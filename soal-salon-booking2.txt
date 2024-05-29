@@ -1,0 +1,99 @@
+Menu Awal					
+					
+	Aplikasi Booking Salon				
+					
+1. Tampilkan Data					
+2. Membuat Reservasi					
+3. Finish/Cancel Reservasi					
+0. Exit					
+
+Sub menu Tampilkan Data					
+					
+	Data Booking Salon				
+					
+1. Tampilkan Recent Reservation					
+2. Tampilkan Customer					
+3. Tampilkan  Employee					
+4. Tampilkan History Reservation + Total Keuntungan					
+0. Back To Main Menu					
+					
+					
+Tampilan Recent Reservation					
+No	ID	Nama Customer	Service	Total Biaya	Workstage
+1	Rsv-01	Nur	Rebonding		In Process
+2	Rsv-02	Aceng	Rebonding, Potong Rambut		In Process
+					
+					
+Tampilan Customer					
+No	ID	Nama	Alamat	Membership	Uang
+1	Cust-01	Budi	Bandung	none	Rp125.000
+2	Cust-02	Aceng	Cimahi	Silver	Rp200.000
+					
+					
+Tampilan Employee					
+No	ID	Nama	Alamat	Pengalaman	
+1	Emp-01	Jono	Bandung	1	
+2	Emp-02	Joni	Cimahi	3	
+					
+					
+Tampilan History Reservation					
+No	ID	Nama Customer	Service	Total Biaya	Workstage
+1	Rsv-01	Nur	Rebonding		Finish
+2	Rsv-02	Aceng	Rebonding, Potong Rambut		Finish
+Total Keuntungan				Rp.	
+					
+					
+Membuat Reservasi					
+					
+No	ID	Nama	Alamat	Membership	Uang
+1	Cust-01	Budi	Bandung	none	Rp125.000
+2	Cust-02	Aceng	Cimahi	Silver	Rp200.000
+Silahkan Masukkan Customer Id:					
+Cust-01					
+No	ID	Nama	Alamat	Pengalaman	
+1	Emp-01	Jono	Bandung	1	
+2	Emp-02	Joni	Cimahi	3	
+Silahkan Masukkan Employee Id					
+Emp-01					
+No	ID	Nama		Harga	
+1	Serv-01	Potong Rambut		Rp125.000	
+2	Serv-02	Styling Rambut		Rp200.000	
+Silahkan Masukkan Service Id					
+Serv-01					
+Ingin pilih service yang lain (Y/T)?					
+Y					
+Silahkan Masukkan Service Id					
+Sev-02					
+Ingin pilih service yang lain (Y/T)?					
+T					
+Booking Berhasil!					
+Total Biaya Booking : Rp.					
+					
+					
+Finish/Cancel Reservasi					
+No	ID	Nama Customer	Nama Service	Total Biaya	
+1	Rsv-01	Nur	Potong Rambut		
+2	Rsv-02	Aceng	Rebonding, Potong Rambut		
+Silahkan Masukkan Reservation Id:					
+Rsv-01					
+Selesaikan reservasi:					
+Finish					
+					
+Reservasi dengan id Rsv-01 sudah Finish					
+					
+					
+					
+No	ID	Nama Customer	Nama Service	Total Biaya	
+1	Rsv-01	Nur	Potong Rambut		
+2	Rsv-02	Aceng	Rebonding, Potong Rambut		
+Silahkan Masukkan Reservation Id:					
+Rsv-02					
+Selesaikan reservasi:					
+Cancel					
+					
+Reservasi dengan id Rsv-01 sudah Cancel		
+
+
+
+link:
+https://docs.google.com/spreadsheets/d/1ZnqzhPIAHxNIzBtBjpr9LbPpcGZRIdfFND05PUEezt8/edit?pli=1#gid=471035255			
